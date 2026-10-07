@@ -1,0 +1,1 @@
+// Dummy python file 36 for legacy target validation.

@@ -1,0 +1,1 @@
+// Dummy php file 42 for legacy target validation.

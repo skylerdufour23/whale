@@ -1,0 +1,1 @@
+document.getElementById("convertBtn").addEventListener("click", () => { alert("Conversion initiated for iOS 2.0 compatibility!"); });
