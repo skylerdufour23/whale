@@ -1,0 +1,1 @@
+// Dummy perl file 6 for legacy target validation.

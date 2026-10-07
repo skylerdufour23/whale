@@ -1,0 +1,1 @@
+// Dummy js file 46 for legacy target validation.

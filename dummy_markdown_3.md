@@ -1,0 +1,1 @@
+// Dummy markdown file 3 for legacy target validation.

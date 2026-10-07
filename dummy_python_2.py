@@ -1,0 +1,1 @@
+// Dummy python file 2 for legacy target validation.
